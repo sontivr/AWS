@@ -1,0 +1,8 @@
+http://s3.amazonaws.com/mast-mast-3/public/langws/2018/readme.html
+
+node ./transcript-to-multi-vtt.js asrOutput.json >lab-03.vtt
+node transcript-to-html.js asrOutput.json "bbc-one-minute-201804012144CT.mp4" "video/mp4" > bbc-one-minute-201804012144CT.mp4.html
+
+
+file:///Users/RamanaSonti/aws/loft/transcribe-utils-node/bbc-one-minute-201804012144CT.mp4
+

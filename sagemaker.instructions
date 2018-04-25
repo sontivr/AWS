@@ -1,0 +1,6 @@
+
+https://amzn.to/2GelxDj
+
+
+git clone https://github.com/awslabs/amazon-sagemaker-examples/
+mv ./amazon-sagemaker-examples/sagemaker-python-sdk/tensorflow* ./SageMaker
